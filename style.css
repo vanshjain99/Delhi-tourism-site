@@ -90,3 +90,7 @@ body{
 #abt-heading{
     border-bottom: 2px solid black;
 }
+#learn-more-link{
+    color: black;
+    text-decoration: none;
+}
